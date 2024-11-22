@@ -1,6 +1,6 @@
 # S&P 500 Time Series Project
 
-## From Course: **Data Analytics Real-World Projects in Python from Udemy**
+## Course: [**Data Analytics Real-World Projects in Python from Udemy**](https://www.udemy.com/course/data-analytics-projects-python/)
 
 ---
 
