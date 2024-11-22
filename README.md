@@ -1,4 +1,4 @@
-##Course Projects
+## Course Projects
 
 A collection of projects completed during online courses, showcasing my learning and application of data analysis concepts.
 
