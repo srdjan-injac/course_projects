@@ -4,10 +4,5 @@
 
 ---
 
-## Description
-[Brief description of the project, methods used, or objectives]
-
----
-
 ## Key Technologies
-- [Technologies, tools, or libraries used]
+- [pandas,numpy,matplotlib,seaborn,]
