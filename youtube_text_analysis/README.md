@@ -10,3 +10,7 @@
 - numpy
 - matplotlib
 - seaborn
+- textblob
+- wordcloud
+- emoji
+- Counter
