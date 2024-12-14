@@ -4,7 +4,7 @@
 
 ---
 
-## Key Technologies
+## Libraries
 - pandas
 - numpy
 - matplotlib
