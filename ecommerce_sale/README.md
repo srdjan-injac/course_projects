@@ -5,4 +5,7 @@
 ---
 
 ## Key Technologies
-- **pandas,numpy,matplotlib,seaborn**
+- pandas
+- numpy
+- matplotlib
+- seaborn
