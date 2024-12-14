@@ -9,5 +9,10 @@
 
 ---
 
-## Key Technologies
-- [Technologies, tools, or libraries used]
+## Libraries
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- glob
